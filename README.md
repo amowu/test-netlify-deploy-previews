@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1d8ec6dc-36be-4c35-8345-9a427523fa0c/deploy-status)](https://app.netlify.com/sites/nostalgic-colden-b7773f/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
